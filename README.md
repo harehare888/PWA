@@ -8,3 +8,8 @@ This will be the icon.
 
 3. Edit the HERE section of manifest.webmanifest as shown in the item.
 The color is represented as #XXXXXXXX and the name and short_name can be the same.
+
+4. Don't forget to add icon.png and upload the five files to your web server.
+You do not need to add README.md.
+
+5. This completes the process!
