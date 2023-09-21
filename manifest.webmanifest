@@ -1,0 +1,15 @@
+    "theme_color": "here",
+    "background_color": "here",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "redirect.html",
+    "name": "here",
+    "short_name": "here",
+    "icons": [
+        {
+            "src": "here",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
