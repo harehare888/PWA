@@ -1,11 +1,11 @@
 {
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "here",
+    "background_color": "here",
     "display": "fullscreen",
     "scope": "/",
     "start_url": "redirect.html",
-    "name": "Google",
-    "short_name": "Google",
+    "name": "here",
+    "short_name": "here",
     "icons": [
         {
             "src": "icon.png",
